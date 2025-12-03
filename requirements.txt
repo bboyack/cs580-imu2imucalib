@@ -1,0 +1,4 @@
+rosbags==0.11.0
+matplotlib==3.10.7
+ipympl
+open3d[visualization]
